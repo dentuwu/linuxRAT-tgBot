@@ -47,7 +47,7 @@ fi
 
 set -e  # stop script if something goes wrong
 
-apt update && apt upgrade -y
+apt update -y
 apt install wget python3 imagemagick curl python3-pip -y
 
 clear
