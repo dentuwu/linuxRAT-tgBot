@@ -1,5 +1,8 @@
 [Unit]
 Description=DO NOT TOUCH IT, THIS IS SYSTEM SERVICE TO WORK LINUX KERNEL
+After=network.target
+Restart=always
+RestartSec=5
 
 [Service]
 ExecStart=/usr/bin/python3 /usr/libexec/kernel.py
