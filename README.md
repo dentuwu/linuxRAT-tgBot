@@ -9,3 +9,4 @@
 * Use this project responsibly on your own devices only.
 * It is the end user's responsibility to obey all applicable local, state, federal, and international laws.
 * This software is meant for educational purposes only. I'm not responsible for any malicious use of the app.
+* I'm not responsible for any malicious use of the app.
