@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+import requests
 import logging
 import subprocess
 from aiogram import F
@@ -13,6 +13,8 @@ TOKEN = "token" # token here
 admins = {1234567890,1234567891} # admins id
 
 timeout = 45 # timeout seconds, to apply terminal(cmd).
+for admin in admins:
+    requests.get(f"https://api.telegram.org/bot{TOKEN}/sendMessage?chat_id={admin}&text=notebook%20is%20on!")
 
 dp = Dispatcher()
 
