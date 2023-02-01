@@ -29,6 +29,7 @@ if [[ $EUID -ne 0 ]]; then
   echo "please wait for 1-10 seconds, script is a loading" 
   
   pip install aiogram==3.0.0b6
+  pip install requests
   clear
   
   systemctl --user daemon-reload
@@ -62,6 +63,7 @@ clear
 echo "please wait for 1-10 seconds, script is a loading" 
 
 pip install aiogram==3.0.0b6
+pip requests
 clear
 
 echo "please wait script is a loading" 
