@@ -40,7 +40,7 @@
 # Install  🥷🏽
 download this repo
 
-##Tested
+## Tested
 **this is script tested on:**
 * Ubuntu 22.04 LTS
 
