@@ -26,14 +26,13 @@
     + imagemagick (not necessarily)
 	+ cd
 	+ systemct ( systemd🐧 )
-	+  sleep (not necessarily)
+	+ sleep (not necessarily)
 	+ echo (not necessarily)
 	+ if 
 	+ then
 	+ mkdir
 	+ apt (not necessarily)
 	+ clear (not necessarily)
-	+ git
 + internet
 + linux!
 
