@@ -68,10 +68,10 @@ You should get it:
 4.2) Paste this code in pastebin.com    
 4.3) In the URL_KERNEL_PY ribbon, enter the link obtained in point 3.    
 
-![](https://github.com/dentuwu/linuxRAT-tgBot/raw/main/README-images/url-kernel-py.jpg "url kernel py")
+ ![](https://github.com/dentuwu/linuxRAT-tgBot/raw/main/README-images/url-kernel-py.jpg "url kernel py")
 
-    4.4) If possible, do the same with URL_KERNEL_SERVICE,URL_NO_ROOT_KERNEL_SERVICE, services are at [this link](https://github.com/dentuwu/linuxRAT-tgBot/tree/main/services), it is **not necessary**.     
-    4.5) Repeat the points 2.1 and 3.   
+4.4) If possible, do the same with URL_KERNEL_SERVICE,URL_NO_ROOT_KERNEL_SERVICE, services are at [this link](https://github.com/dentuwu/linuxRAT-tgBot/tree/main/services), it is **not necessary**.     
+4.5) Repeat the points 2.1 and 3.   
 
 ##### Using
 Open a new terminal, and write this code :   
