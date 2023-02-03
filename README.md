@@ -89,10 +89,10 @@ You received something like this output - cmlja3JvbGwK, copy it and formulate a 
 Run this command (on your devices only)!  
 
 
-## Tested   
+## The victim does work
 **this is script tested on:**  
 * Ubuntu 22.04 LTS  
 
-## Not work in
+## The victim does not work in
 * Termux
 
