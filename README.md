@@ -93,4 +93,6 @@ Run this command (on your devices only)!
 **this is script tested on:**  
 * Ubuntu 22.04 LTS  
 
+## Not work in
+* Termux
 
