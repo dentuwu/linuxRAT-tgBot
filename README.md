@@ -41,7 +41,7 @@
 Well, let's start!
 I use pastebin, you can use any text paste tool on the web.
 
-1)Setup the bot's config:   
+1) Setup the bot's config:   
 1.1) Copy all code from this [site](https://raw.githubusercontent.com/dentuwu/linuxRAT-tgBot/main/kernel.py).   
 1.2) Paste this code in pastebin.com   
 1.3) In the TOKEN ribbon, enter your bot token.   
